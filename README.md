@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Balance Sheet</h2>
-In this project, I have build a balance sheet using pseudo selectors, <br />The project is built using HTML5 & CSS3.
+In this project, I have build a balance sheet using pseudo selectors, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/balance-sheet/"><strong>➥ Live Demo</strong></a>
 
